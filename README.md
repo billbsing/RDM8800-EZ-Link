@@ -24,15 +24,16 @@ and number of days since 1995-01-01 created.
 
 So for example:
 
-When an EZ-Link card is detected the reader will return:
+When an EZ-Link card is detected the reader will return the following text followed by a carrige return linefeed:
 
-1000130019390060,8.38,9107,6915
+`1000130019390060,8.38,9107,6915`
 
 Which can be broken up into the following comma seperated fields:
 
-Number: 1000130019390060
-Balance: $8.38
-Expire days: 9107
-Created days: 6915
+. Number: 1000130019390060
+. Balance: $8.38
+. Expire days: 9107
+. Created days: 6915
+
 
 
