@@ -1,5 +1,3 @@
-RDM8800 RFID Reader Firmware for EZ-Link Cards
-==============================================
 
 Installing
 ----------
@@ -38,6 +36,13 @@ Which can be broken up into the following comma seperated fields:
 + Balance: $`8.38`
 + Expire days: `9107`
 + Created days: `6915`
+
+Thanks To
+---------
+
++ [Stan Lee @ iteadstudio](Lizq@iteadstudio.com)
++ [source code farebot](https://github.com/codebutler/farebot)
++ [Original PN532 library by adafruit/ladyada](www.adafruit.com)
 
 
 
