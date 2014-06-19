@@ -41,8 +41,8 @@ Thanks To
 ---------
 
 + [Stan Lee @ iteadstudio](Lizq@iteadstudio.com)
-+ [source code farebot](https://github.com/codebutler/farebot)
-+ [Original PN532 library by adafruit/ladyada](www.adafruit.com)
++ [Source code from farebot](https://github.com/codebutler/farebot)
++ [Original PN532 library by adafruit/ladyada](http://www.adafruit.com)
 
 
 
