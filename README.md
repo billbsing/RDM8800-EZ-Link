@@ -6,7 +6,7 @@ To install this firmware you need to do the following:
 
 1. Copy the folder EZLink into your Arduino 'sketchbook' folder
 
-2. Copy the folder libraries/PN532Lib to you Arduino 'sketchbook/libriries' folder
+2. Copy the folder PN532Lib to you Arduino 'sketchbook/libraries' folder
 
 3. Then start the Ardunio IDE and select the sketch EZLink.
 
