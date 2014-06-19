@@ -40,7 +40,7 @@ Which can be broken up into the following comma seperated fields:
 Thanks To
 ---------
 
-+ [Stan Lee @ iteadstudio](Lizq@iteadstudio.com)
++ [Stan Lee @ iteadstudio](http://www.iteadstudio.com)
 + [Source code from farebot](https://github.com/codebutler/farebot)
 + [Original PN532 library by adafruit/ladyada](http://www.adafruit.com)
 
