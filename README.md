@@ -30,10 +30,10 @@ When an EZ-Link card is detected the reader will return the following text follo
 
 Which can be broken up into the following comma seperated fields:
 
-. Number: 1000130019390060
-. Balance: $8.38
-. Expire days: 9107
-. Created days: 6915
++ Number: 1000130019390060
++ Balance: $8.38
++ Expire days: 9107
++ Created days: 6915
 
 
 
